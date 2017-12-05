@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## LESSON 1 - SETUP
+Open Terminal
+Create a new directory called myGql
+cd myGql
+Run command> npm init
+Run command> npm install --save express express-graphql graphql lodash
+using Atom code editor, you can use any of your choice... Open Atom and open directory myGql
+
 
 You can use the [editor on GitHub](https://github.com/ghughi/GraphQL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
